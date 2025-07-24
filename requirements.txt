@@ -1,8 +1,0 @@
-python-dotenv
-tweepy
-openai
-langchain
-pandas
-numpy
-matplotlib
-scikit-learn
